@@ -3,7 +3,7 @@
 //  ci-cd-test
 //
 //  Created by Sumi on 2022/06/16.
-//
+//  it's so hard 11:02
 
 import SwiftUI
 
