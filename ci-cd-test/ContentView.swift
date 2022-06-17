@@ -5,12 +5,13 @@
 //  Created by Sumi on 2022/06/16.
 //  it's so hard 11:02
 //  after meeting, modify comment 13:47
+//  modify message 6/17 12:49
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, world!, how day??")
             .padding()
     }
 }
