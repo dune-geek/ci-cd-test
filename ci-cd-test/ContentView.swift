@@ -11,7 +11,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!, how day??")
+        Text("Hello, world!, how day?? \n 2022/6/16 15:41")
             .padding()
     }
 }
